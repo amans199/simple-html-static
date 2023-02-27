@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'learnazur2task2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_25D7A92BBE604C938E00952462FD6788 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_481ADD2AAA6B43BEBF42CCC4245D750A }}
           package: .
